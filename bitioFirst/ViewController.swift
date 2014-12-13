@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         messageLabel.textColor = UIColor.redColor();
         neshtoSiLabel.text = "";
         neshtoSiLabel.resignFirstResponder();
-        
+        // adding comment
         mailButton.setTitle("Mail Sent!", forState: UIControlState.Normal);
     }
 
